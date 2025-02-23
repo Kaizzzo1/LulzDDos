@@ -51,7 +51,7 @@
  
  ## Usage
 ```sh
-DOWNLOAD:  git clone https://github.com/lulzddos/Lulzddos.git
+DOWNLOAD:  git clone https://github.com/Kaizzzo1/LulzDDos.git
 INSTALL: - python setup.py install or python3 setup.py install
          - with pip:
            pip3 install -r requirements.txt  or  pip install -r requirements.txt

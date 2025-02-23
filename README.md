@@ -1,4 +1,4 @@
-![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378)
+
 
 
 ```sh
@@ -59,9 +59,3 @@ NOTICE: For bypass work need install lastest verion Chrome
  - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  - apt-get install ./google-chrome-stable_current_amd64.deb
  Thread set 10-50 > work
-```
-## Contact Developer
-```sh
-Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv
-discord : lulz7332
-```
